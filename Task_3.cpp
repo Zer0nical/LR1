@@ -17,7 +17,7 @@ int main() {
 }
 /*
 AddressSanitizer (ASan)f; 
-• LeakSanitizer (LSan); 
-• ThreadSanitizer (TSan); 
-• UndefinedBehaviorSanitizer (UBSsan)
+LeakSanitizer (LSan); 
+ThreadSanitizer (TSan); 
+UndefinedBehaviorSanitizer (UBSsan)
 */
