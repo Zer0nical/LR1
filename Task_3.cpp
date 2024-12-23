@@ -16,3 +16,5 @@ int main() {
     std::cout<<"emm just vetka";
     return 0; 
 }
+//otladchik = gdb ./Task_3
+//after sanitize -02
