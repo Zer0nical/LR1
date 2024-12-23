@@ -13,5 +13,6 @@ int main() {
         double y = sin(x); // функция y = sin(x)   
         std::cout << x << " | " << y << std::endl; // Выводим значения функции для каждого аргумента (x | y) 
     } 
+    std::cout<<"emm just vetka";
     return 0; 
 }
