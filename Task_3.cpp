@@ -15,9 +15,3 @@ int main() {
     } 
     return 0; 
 }
-/*
-AddressSanitizer (ASan)f; 
-LeakSanitizer (LSan); 
-ThreadSanitizer (TSan); 
-UndefinedBehaviorSanitizer (UBSsan)
-*/

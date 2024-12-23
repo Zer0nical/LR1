@@ -7,6 +7,6 @@ UndefinedBehaviorSanitizer (UBSsan)
 
 //hints for console 
 /*
-clang++ -fsanitize=adress -g Task_3.cpp -o Task_3 (-o = name of output file)
-
+clang++ -fsanitize=address -g Task_3.cpp -o Task_3 (-o = name of output file)
+address / undefined / thread /leak
 */

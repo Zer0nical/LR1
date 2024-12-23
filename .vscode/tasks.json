@@ -26,3 +26,61 @@
     ],
     "version": "2.0.0"
 }
+/*
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build with AddressSanitizer",
+      "type": "shell",
+      "command": "clang++",
+      "args": [
+        "-fsanitize=address",
+        "-g",
+        "Task_3.cpp",
+        "-o",
+        "Task_3"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "label": "Build with ThreadSanitizer",
+      "type": "shell",
+      "command": "clang++",
+      "args": [
+        "-fsanitize=thread",
+        "-g",
+        "Task_3.cpp",
+        "-o",
+        "Task_3_thread"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      },
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "label": "Build with UndefinedBehaviorSanitizer",
+      "type": "shell",
+      "command": "clang++",
+      "args": [
+        "-fsanitize=undefined",
+        "-g",
+        "Task_3.cpp",
+        "-o",
+        "Task_3_ubsan"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      },
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}
+  */
