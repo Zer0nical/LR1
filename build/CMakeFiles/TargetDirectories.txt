@@ -1,0 +1,3 @@
+/home/kali/Desktop/Working/labsOAIP/LR1/build/CMakeFiles/Task_3.dir
+/home/kali/Desktop/Working/labsOAIP/LR1/build/CMakeFiles/edit_cache.dir
+/home/kali/Desktop/Working/labsOAIP/LR1/build/CMakeFiles/rebuild_cache.dir

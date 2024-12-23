@@ -1,0 +1,5 @@
+0 - CMakeLists.txt
+1 - mkdir -p build && cd build
+2 - cmake ..
+3 - make
+4 - ./Task_3

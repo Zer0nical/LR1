@@ -1,0 +1,12 @@
+/*
+AddressSanitizer (ASan)f; 
+LeakSanitizer (LSan); 
+ThreadSanitizer (TSan); 
+UndefinedBehaviorSanitizer (UBSsan)
+*/
+
+//hints for console 
+/*
+clang++ -fsanitize=adress -g Task_3.cpp -o Task_3 (-o = name of output file)
+
+*/
